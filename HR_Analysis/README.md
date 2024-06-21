@@ -1,7 +1,3 @@
-Sure, I'll tailor the README description based on the provided final report image. Here's an updated project description for your GitHub README file:
-
----
-
 # HR Metrics & Workforce Insights Dashboard
 
 ## Project Description
